@@ -1,0 +1,55 @@
+body {
+    background-color:rgb(238, 232, 224);
+}
+
+h1, h2 {
+    font-family: "Ubuntu", "Brush Script MT", sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.hiragana {
+    font-size: 36px;
+}
+
+.shabbat-don-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 37%;
+}
+
+.cacio-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 37%;
+}
+
+.onigiri-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 34%;
+}
+
+p, h4, li {
+    font-family: "Ubuntu", "Brush Script MT", sans-serif;
+}
+
+h1, h4 {
+    font-weight: bolder;
+}
+
+h4 {
+    font-size: 27px;
+}
+
+p, li {
+    font-size: 21px;
+    font-weight: 300;
+}
+
+div {
+    margin: 5.5vw;
+}
